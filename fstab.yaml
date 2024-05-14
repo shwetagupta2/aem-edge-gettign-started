@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/shwetagupta2/aem-boilerplate-xwalk/main"
+    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/shwetagupta2/aem-edge-gettign-started
+/main"
     type: "markup"
     suffix: ".html"
